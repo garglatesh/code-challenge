@@ -1,13 +1,17 @@
 # code-challenge
 Coding Challenge
 
-Tasks 1-2
+Tasks 1-2 :-
+
+
 These two tasks are done in PHP. To run this project please do 
 1: composer install
 2: To serve the application php -S localhost:8000 
 3: To run the test cases ./vendor/bin/phpunit tests
 
-Task 3
+Task 3 :- 
+
+
 1: Node js is used in the backend to fetch the response from the Twitter search api to fetch tweets.
 2: Angular Framework is used in the front end to display the Hashtags and user mentions.
 3: Server folder is the backend and client is the front end in the zip.
